@@ -1,8 +1,5 @@
 "use client";
 
-//  arey mowa koni values work katle ra like m-32 ivi asal effect a chupisthale???
-// ekda chupi follow chesta agu  DHOme pa
-
 import { type NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
