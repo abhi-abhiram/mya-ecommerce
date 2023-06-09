@@ -6,7 +6,8 @@ export default {
 
     extend: {
       fontFamily: {
-        sans: ["var(--font-merriweather-sans)"]
+        sans: ["var(--font-merriweather-sans)"],
+        'play':['Playfair Display']
       },
       colors: {
         "primary": {
